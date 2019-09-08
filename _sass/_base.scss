@@ -37,20 +37,20 @@ p {
 }
 
 .sidebar-wrapper {
-    background: $theme-color;
+    background: darken($theme-color, 10%);
     position: absolute;
     right: 0;
     width: 280px;
     height: 100%;
-    min-height: 800px;
+    // min-height: 800px;
     color: #fff;
     a {
         color: #fff;
     }
     .profile-container {
-        padding: 30px;
-        //background: darken($theme-color, 10%);
-        background: rgba(0, 0, 0, 0.2);
+        padding: 10px;
+        background: darken($theme-color, 10%);
+        // background: rgba(0, 0, 0, 0.2);
         text-align: center;
         color: #fff;
     }
@@ -73,7 +73,7 @@ p {
 
     .avatar {
         //used for profile image
-        max-width: 100px;
+        max-width: 250px;
         margin-bottom: 15px;
         border: 0px solid #fff;
         border-radius: 100%;
@@ -86,14 +86,14 @@ p {
             vertical-align: middle;
         }
         li {
-            margin-bottom: 15px;
+            // margin-bottom: 1px;
             &:last-child {
                 margin-bottom: 0;
             }
         }
     }
     .container-block {
-        padding: 30px;
+        padding: 10px;
     }
     .container-block-title {
         text-transform: uppercase;
@@ -155,12 +155,12 @@ p {
 
 .main-wrapper {
     background: #fff;
-    padding: 60px;
-    padding-right: 340px;
+    padding: 10px;
+    padding-right: 290px;
     .section-title {
         text-transform: uppercase;
         font-size: 20px;
-        font-weight: 500;
+        font-weight: 00;
         color: darken($theme-color, 15%);
         position: relative;
         margin-top: 0;
@@ -172,7 +172,11 @@ p {
 
     .experiences-section, .educations-section {
         .item {
-            margin-bottom: 30px;
+            margin-bottom: 10px;
+            min-height: 250px;
+            // background-color: #ccabcc;
+            // background-image: url('{{ site.baseurl }}/assets/images/IMG_0998.jpg');
+            // background-image: url("IMG_0998.jpg")
         }
     }
     .upper-row {
@@ -181,9 +185,10 @@ p {
         margin-bottom: 2px;
     }
     .job-title, .degree {
-        color: $text-color;
-        font-size: 16px;
-        margin-top: 0;
+        color: rgb(253, 253, 253);
+        font-size: 20px;
+        margin-top: 10px;
+        margin-left: 10px;
         margin-bottom: 0;
         font-weight: 500;
     }
@@ -195,6 +200,7 @@ p {
     }
     .company, .university {
         margin-bottom: 10px;
+        margin-left: 15px;
         color: $text-grey;
     }
 
