@@ -132,10 +132,40 @@ experiences:
       company: Von Krahl/ lavastaja M. Kangro
       image: kogudus.jpg
 
+    - role: IMPEERIUM
+      time: 2014 - 2015
+      company: Von Krahl/ lavastaja M. Koldits
+      image: impeerium.jpg
+
+    - role: Õpetatud naised
+      time: 2014 - 2015
+      company: Eesti Draamateater/ lavastaja L. Peterson 
+      image: naised.JPG
+
+    - role: Nikolaus ja Apelsinid
+      time: 2014 - 2015
+      company: Ajateater/ lavastaja A. Velt
+      image: nikolaus.jpg
+
+    - role: Lavastaja "Esimesed suudlused"
+      time: 2014 - 2015
+      company: Salme Teater/ lavastaja J. Nuutre
+      image: suudlused.JPG
+
     - role: Lavastaja "Suvepäev"
       time: 2014 - 2015
       company: Salme Teater/ lavastaja J. Nuutre
       image: suvepaev.JPG
+    
+    - role: TÖNK
+      time: 2014 - 2015
+      company: Eesti Kontsert/ lavastaja P. Jalakas
+      image: tonk.JPEG
+    
+    - role: TV - Teine Võimalus
+      time: 2014 - 2015
+      company: režissöör R. Merivoo,Indrek Simm/ Thor Productions ja Kanal 2 
+      image: teinevoimalus.JPG
       # details: |
       #   Describe your role here lorem ipsum dolor sit amet, consectetuer
       #   adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
