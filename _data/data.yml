@@ -111,6 +111,31 @@ experiences:
       time: 2014 - 2015
       company: NO99/ lavastaja S. Pepelyayev (Venemaa)
       image: no.jpg
+
+    - role: Kratt
+      time: 2014 - 2015
+      company: Tallinna Linnateater/ lavastaja I. Jõela 
+      image: kratt.jpg
+
+    - role: ..Ja peaksin sada surma ma...
+      time: 2014 - 2015
+      company: lavastaja A.Türnpu, E. Koldits, M. Koldits
+      image: sadasurma.jpg
+
+    - role: NO37,8 Lavakunstikooli aktsioon "Drag show"
+      time: 2014 - 2015
+      company: NO99
+      image: dragshow.jpg
+
+    - role: KOGUDUS
+      time: 2014 - 2015
+      company: Von Krahl/ lavastaja M. Kangro
+      image: kogudus.jpg
+
+    - role: Lavastaja "Suvepäev"
+      time: 2014 - 2015
+      company: Salme Teater/ lavastaja J. Nuutre
+      image: suvepaev.JPG
       # details: |
       #   Describe your role here lorem ipsum dolor sit amet, consectetuer
       #   adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
