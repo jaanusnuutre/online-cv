@@ -8,9 +8,9 @@
     </span>
     Experiences
   </h2> -->
-
+<!-- calc(50% - {{ experience.image_offsetx }}) calc(50% - experience.image_offsety);  -->
   {% for experience in experiences %}
-  <div class="item" style="background-image: url('{{ site.baseurl }}/assets/images/{{ experience.image }}');background-size: cover; background-position: center center; ">
+  <div class="item" style="background-image: url('{{ site.baseurl }}/assets/images/{{ experience.image }}'); background-size: cover; background-position: 0% {{ experience.image_offsety }};">
 
     <div class="meta">
 

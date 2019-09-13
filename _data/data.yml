@@ -8,7 +8,7 @@ sidebar:
 
     # Profile information
     name: Jaanus Nuutre
-    tagline: NÄITLEJA / LAVASTAJA <br>Lavaka XXVIII lend (2018)
+    tagline: NÄITLEJA / LAVASTAJA <br>Lavaka XXVIII lend
     avatar: IMG_0998.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
@@ -25,15 +25,15 @@ sidebar:
     # codewars:
     # goodreads: # Number-Username, e.g. 123456-alandoe
 
-    languages:
-      - idiom: Eesti keel
-        level: Emakeel
+    # languages:
+    #   - idiom: Eesti keel
+    #     level: Emakeel
 
-      - idiom: Inglise keel
-        level: Väga hea
+    #   - idiom: Inglise keel
+    #     level: Väga hea
 
-      - idiom: Vene keel
-        level: Rahuldav
+    #   - idiom: Vene keel
+    #     level: Rahuldav
 
     # interests:
     #   - item: JALGPALL
@@ -52,50 +52,44 @@ sidebar:
 #      Minu nimi on Jaanus Nuutre, ma olen vabakutseline näitleja ning lavastaja. Lõpetasin 2018.a suvel Lavakunstikooli 28. lennu näitleja erialal, kuid huvi lavastamise vastu pani mind ka lavastaja tundudest osa võtma. Nooruses tegelesin palju spordiga, eriti jalgpalliga, mis on siiani minule hingelähedane spordiala. Kui ma ei näitle, lavasta, koolita – siis ma loen palju ning viibin looduses. Loodan, et leiad minu kodulehelt omale piisavalt informatsiooni minu juba tehtud kui ka tulevaste tööde kohta!
 
 education:
+
     - degree: Lavaka XXVIII lend
       university: EMTA Lavakunstikool
       time: 2014 - 2018
-      details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
 
-          - Bullet point
-          - Bullet point
+    - degree: Rose Bruford College
+      university: London / vahetusõpe
+      time: 2016
+
+    - degree: Lithuanian Academy of Music and Theatre 	
+      # university: London / vahetusõpe
+      time: 2015
 
     - degree: Rekreatsioonikorraldus
       university: Tallinna Ülikool
       time: 2008 - 2013
-      details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-
-          - Bullet point
-          - Bullet point
 
     - degree: Kunsti- ja meediaklass
       university: Tallinna Kunstigümnaasium
       time: 1996 - 2008
-      details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
 
-          - Bullet point
-          - Bullet point
+lisategevused:
+    - tegevus: Õhtujuhtimine
+
+    - tegevus: "Koolitused: avalik esinemine, hääle- ja näitlejatehnika"
+
+    - tegevus: Dublaaž
+
+    - tegevus: Raadio- ja telereklaam
+
+    
 
 experiences:
     - role: Unusta/Unista
       time: 2019
       company: Tartu Uus Teater/ lavastaja I. Jõela
       image: unusta_unista.jpg
+      image_offsety: 50%
       # details: |
       #   <img src='assets/images/profile.png' class='img-fluid'>
       #   <img src='assets/images/profile.png' class='rounded float-center'>
@@ -106,66 +100,79 @@ experiences:
       time: 2014 - 2015
       company: Paide Teater & Tartu Uus Teater/ lavastaja M. Koldits
       image: 12vihast.JPG
+      image_offsety: 50%
 
     - role: NOДВЕНАДЦАТЬ
       time: 2014 - 2015
       company: NO99/ lavastaja S. Pepelyayev (Venemaa)
       image: no.jpg
+      image_offsety: 70%
 
     - role: Kratt
       time: 2014 - 2015
       company: Tallinna Linnateater/ lavastaja I. Jõela 
       image: kratt.jpg
+      image_offsety: 50%
 
     - role: ..Ja peaksin sada surma ma...
       time: 2014 - 2015
       company: lavastaja A.Türnpu, E. Koldits, M. Koldits
       image: sadasurma.jpg
+      image_offsety: 0px
 
     - role: NO37,8 Lavakunstikooli aktsioon "Drag show"
       time: 2014 - 2015
       company: NO99
       image: dragshow.jpg
+      image_offsety: -30px
 
     - role: KOGUDUS
       time: 2014 - 2015
       company: Von Krahl/ lavastaja M. Kangro
       image: kogudus.jpg
+      image_offsety: 50%
 
     - role: IMPEERIUM
       time: 2014 - 2015
       company: Von Krahl/ lavastaja M. Koldits
       image: impeerium.jpg
+      image_offsety: 80%
 
     - role: Õpetatud naised
       time: 2014 - 2015
       company: Eesti Draamateater/ lavastaja L. Peterson 
       image: naised.JPG
+      image_offsety: 10%
 
     - role: Nikolaus ja Apelsinid
       time: 2014 - 2015
       company: Ajateater/ lavastaja A. Velt
       image: nikolaus.jpg
+      image_offsety: 15%
 
     - role: Lavastaja "Esimesed suudlused"
       time: 2014 - 2015
       company: Salme Teater/ lavastaja J. Nuutre
       image: suudlused.JPG
+      image_offsety: 10%
 
     - role: Lavastaja "Suvepäev"
       time: 2014 - 2015
       company: Salme Teater/ lavastaja J. Nuutre
       image: suvepaev.JPG
+      image_offsety: 10%
     
     - role: TÖNK
       time: 2014 - 2015
       company: Eesti Kontsert/ lavastaja P. Jalakas
       image: tonk.JPEG
+      image_offsety: 0px
     
     - role: TV - Teine Võimalus
       time: 2014 - 2015
       company: režissöör R. Merivoo,Indrek Simm/ Thor Productions ja Kanal 2 
       image: teinevoimalus.JPG
+      image_offsety: 40%
       # details: |
       #   Describe your role here lorem ipsum dolor sit amet, consectetuer
       #   adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
