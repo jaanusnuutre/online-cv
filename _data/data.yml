@@ -85,7 +85,7 @@ lisategevused:
     
 
 experiences:
-    - role: Unusta/Unista
+    - role: Unusta/Unista / Vanemuurija
       time: 2019
       company: Tartu Uus Teater/ lavastaja I. Jõela
       image: unusta_unista.jpg
@@ -96,59 +96,67 @@ experiences:
       #   <img src='assets/images/profile.png' class='rounded float-right'>
 
 
-    - role: 12 vihast
+    - role: 12 vihast / nr 6
       time: 2014 - 2015
       company: Paide Teater & Tartu Uus Teater/ lavastaja M. Koldits
       image: 12vihast.JPG
       image_offsety: 50%
 
-    - role: NOДВЕНАДЦАТЬ
+    - role: NOДВЕНАДЦАТЬ / Soldat
       time: 2014 - 2015
       company: NO99/ lavastaja S. Pepelyayev (Venemaa)
       image: no.jpg
       image_offsety: 70%
 
-    - role: Kratt
+    - role: Kratt / Marko
       time: 2014 - 2015
       company: Tallinna Linnateater/ lavastaja I. Jõela 
       image: kratt.jpg
       image_offsety: 50%
 
-    - role: ..Ja peaksin sada surma ma...
+    - role: ..Ja peaksin sada surma ma... / Osatäitja
       time: 2014 - 2015
       company: lavastaja A.Türnpu, E. Koldits, M. Koldits
       image: sadasurma.jpg
       image_offsety: 0px
 
-    - role: NO37,8 Lavakunstikooli aktsioon "Drag show"
+    - role: TÖNK / Huntmees
       time: 2014 - 2015
-      company: NO99
-      image: dragshow.jpg
-      image_offsety: -30px
+      company: Eesti Kontsert/ lavastaja P. Jalakas
+      image: tonk.JPEG
+      image_offsety: 0px
 
-    - role: KOGUDUS
-      time: 2014 - 2015
-      company: Von Krahl/ lavastaja M. Kangro
-      image: kogudus.jpg
-      image_offsety: 50%
 
-    - role: IMPEERIUM
-      time: 2014 - 2015
-      company: Von Krahl/ lavastaja M. Koldits
-      image: impeerium.jpg
-      image_offsety: 80%
-
-    - role: Õpetatud naised
+    - role: Õpetatud naised / Ariste
       time: 2014 - 2015
       company: Eesti Draamateater/ lavastaja L. Peterson 
       image: naised.JPG
       image_offsety: 10%
 
-    - role: Nikolaus ja Apelsinid
+    - role: Nikolaus ja Apelsinid / Peeter
       time: 2014 - 2015
       company: Ajateater/ lavastaja A. Velt
       image: nikolaus.jpg
       image_offsety: 15%
+
+    - role: NO37,8 Lavakunstikooli aktsioon "Drag show" / Artist
+      time: 2014 - 2015
+      company: NO99
+      image: dragshow.jpg
+      image_offsety: -30px
+
+    - role: IMPEERIUM / Osatäitja
+      time: 2014 - 2015
+      company: Von Krahl/ lavastaja M. Koldits
+      image: impeerium.jpg
+      image_offsety: 80%
+
+    - role: KOGUDUS / Jaanus
+      time: 2014 - 2015
+      company: Von Krahl/ lavastaja M. Kangro
+      image: kogudus.jpg
+      image_offsety: 50%
+
 
     - role: Lavastaja "Esimesed suudlused"
       time: 2014 - 2015
@@ -162,13 +170,7 @@ experiences:
       image: suvepaev.JPG
       image_offsety: 10%
     
-    - role: TÖNK
-      time: 2014 - 2015
-      company: Eesti Kontsert/ lavastaja P. Jalakas
-      image: tonk.JPEG
-      image_offsety: 0px
-    
-    - role: TV - Teine Võimalus
+    - role: TV - Teine Võimalus / Remo
       time: 2014 - 2015
       company: režissöör R. Merivoo,Indrek Simm/ Thor Productions ja Kanal 2 
       image: teinevoimalus.JPG
