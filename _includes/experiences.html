@@ -11,7 +11,7 @@
 <!-- calc(50% - {{ experience.image_offsetx }}) calc(50% - experience.image_offsety);  -->
   {% for experience in experiences %}
   {% if experience.link %}
-  <a href={{ experience.link }}>
+  <a href={{ experience.link }} target="_blank">
   {% endif %}
     <div id="{{ experience.role }}" class="item" style="background-image: url('{{ site.baseurl }}/assets/images/{{ experience.image }}'); background-size: cover; background-position: 50% {{ experience.image_offsety }};">
 
