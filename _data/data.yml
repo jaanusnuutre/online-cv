@@ -74,7 +74,7 @@ education:
       time: 1996 - 2008
 
 lisategevused:
-    - tegevus: Õhtujuhtimine
+    - tegevus: "<a href=\"#Õhtujuht\" style=\"font-weight: 500\">Õhtujuhtimine</a>"
 
     - tegevus: "Koolitused: avalik esinemine, hääle- ja näitlejatehnika"
 
@@ -90,6 +90,7 @@ experiences:
       company: Tartu Uus Teater/ lavastaja I. Jõela
       image: unusta_unista.jpg
       image_offsety: 50%
+      link: https://www.uusteater.ee/tekstid?tag=unustaunista
       # details: |
       #   <img src='assets/images/profile.png' class='img-fluid'>
       #   <img src='assets/images/profile.png' class='rounded float-center'>
@@ -101,30 +102,35 @@ experiences:
       company: Paide Teater & Tartu Uus Teater/ lavastaja M. Koldits
       image: 12vihast.JPG
       image_offsety: 50%
+      link: https://www.uusteater.ee/tekstid?tag=12%20vihast
 
     - role: NOДВЕНАДЦАТЬ / Soldat
       time: 2014 - 2015
       company: NO99/ lavastaja S. Pepelyayev (Venemaa)
       image: no.jpg
       image_offsety: 70%
+      link: https://kultuur.err.ee/584226/valner-valme-new-kids-on-the-blok-nodvenadcat
 
     - role: Kratt / Marko
       time: 2014 - 2015
       company: Tallinna Linnateater/ lavastaja I. Jõela 
       image: kratt.jpg
       image_offsety: 50%
+      link: https://kultuur.err.ee/690451/arvustus-ara-karda-kratti
 
     - role: ..Ja peaksin sada surma ma... / Osatäitja
       time: 2014 - 2015
       company: lavastaja A.Türnpu, E. Koldits, M. Koldits
       image: sadasurma.jpg
       image_offsety: 0px
+      link: http://danzumees.blogspot.com/2017/08/ja-peaksin-sada-surma-ma-lavaka-28lend.html
 
     - role: TÖNK / Huntmees
       time: 2014 - 2015
       company: Eesti Kontsert/ lavastaja P. Jalakas
       image: tonk.JPEG
       image_offsety: 0px
+      link: http://eksperiment.kinoteater.ee/86-eesti-mangud-tonk/
 
 
     - role: Õpetatud naised / Ariste
@@ -132,49 +138,73 @@ experiences:
       company: Eesti Draamateater/ lavastaja L. Peterson 
       image: naised.JPG
       image_offsety: 10%
+      link: http://www.draamateater.ee/opetatud-naised
+
+    - role: Kuningas Lear / Eriüksuslane
+      company: Theatrum / Lavastaja Vladimir Baitšer
+      image: laer.JPG
+      image_offsety: 50%
+      link: http://www.theatrum.ee/lavastused/kuningas-lear/
 
     - role: Nikolaus ja Apelsinid / Peeter
       time: 2014 - 2015
       company: Ajateater/ lavastaja A. Velt
       image: nikolaus.jpg
       image_offsety: 15%
+      link: http://hopnerimaja.eu/Blog/355_Nikolaus_ja_apelsinid_-_Advendilugu
 
     - role: NO37,8 Lavakunstikooli aktsioon "Drag show" / Artist
       time: 2014 - 2015
       company: NO99
       image: dragshow.jpg
       image_offsety: -30px
+      link: https://no99.ee/lavastused/no37-8-lavakunstikooli-aktsioon-drag-show?fbclid=IwAR10bRDLGn3dPe-1f_YOB3S9-kfi-bc8qHCFVTUOcDD1jPRZ6FKa3bKAhTs
 
     - role: IMPEERIUM / Osatäitja
       time: 2014 - 2015
       company: Von Krahl/ lavastaja M. Koldits
       image: impeerium.jpg
       image_offsety: 80%
+      link: http://danzumees.blogspot.com/2017/03/impeerium-lavakas-ja-von-krahli-teater.html
 
     - role: KOGUDUS / Jaanus
       time: 2014 - 2015
       company: Von Krahl/ lavastaja M. Kangro
       image: kogudus.jpg
       image_offsety: 50%
-
+      link: https://kultuur.err.ee/599269/arvustus-kogukond-kui-meie-aja-mark
 
     - role: Lavastaja "Esimesed suudlused"
       time: 2014 - 2015
       company: Salme Teater/ lavastaja J. Nuutre
       image: suudlused.JPG
       image_offsety: 10%
+      link: http://danzumees.blogspot.com/2019/08/esimesed-suudlused-salme-teater.html
 
     - role: Lavastaja "Suvepäev"
       time: 2014 - 2015
       company: Salme Teater/ lavastaja J. Nuutre
       image: suvepaev.JPG
       image_offsety: 10%
+      link: http://danzumees.blogspot.com/2018/09/suvepaev-salme-teater.html
     
     - role: TV - Teine Võimalus / Remo
       time: 2014 - 2015
       company: režissöör R. Merivoo,Indrek Simm/ Thor Productions ja Kanal 2 
       image: teinevoimalus.JPG
       image_offsety: 40%
+      link: https://televeeb.ohtuleht.ee/898717/arvustus-seriaal-teine-voimalus-volub-lihtsa-eestlase-probleemide-kujutamise-ja-eluterve-huumoriga
+
+    - role: Õhtujuht
+      company: Tallinna Vanalinna Päevad
+      image: ohtujuht.jpg
+      image_offsety: 40%
+
+    - role: Teadustaja
+      company: Eesti Jalgpalli Liit
+      image: teadustaja.jpeg
+      image_offsety: 40%
+
       # details: |
       #   Describe your role here lorem ipsum dolor sit amet, consectetuer
       #   adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.

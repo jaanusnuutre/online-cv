@@ -10,27 +10,33 @@
   </h2> -->
 <!-- calc(50% - {{ experience.image_offsetx }}) calc(50% - experience.image_offsety);  -->
   {% for experience in experiences %}
-  <div class="item" style="background-image: url('{{ site.baseurl }}/assets/images/{{ experience.image }}'); background-size: cover; background-position: 50% {{ experience.image_offsety }};">
+  {% if experience.link %}
+  <a href={{ experience.link }}>
+  {% endif %}
+    <div id="{{ experience.role }}" class="item" style="background-image: url('{{ site.baseurl }}/assets/images/{{ experience.image }}'); background-size: cover; background-position: 50% {{ experience.image_offsety }};">
 
-    <div class="meta">
+      <div class="meta">
 
-      <div class="upper-row">
-        <h1 class="job-title">{{ experience.role }}</h1>
-        <!-- <div class="time">{{ experience.time }}</div> -->
-      </div><!--//upper-row-->
+        <div class="upper-row">
+          <h1 class="job-title">{{ experience.role }}</h1>
+          <!-- <div class="time">{{ experience.time }}</div> -->
+        </div><!--//upper-row-->
 
-      <div class="company">{{ experience.company }}</div>
+        <div class="company">{{ experience.company }}</div>
 
-    </div><!--//meta-->
+      </div><!--//meta-->
 
-    {% if experience.details %}
-    <div class="details">
-      
-      {{ experience.details | markdownify }}
-    </div><!--//details-->
+      {% if experience.details %}
+      <div class="details">
+        
+        {{ experience.details | markdownify }}
+      </div><!--//details-->
+      {% endif %}
+
+    </div><!--//item-->
+    {% if experience.link %}
+    </a>
     {% endif %}
-
-  </div><!--//item-->
   {% endfor %}
 
 </section><!--//section-->
