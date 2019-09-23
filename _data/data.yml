@@ -76,7 +76,7 @@ education:
 lisategevused:
     - tegevus: "<a href=\"#Õhtujuht\" style=\"font-weight: 500\">Õhtujuhtimine</a>"
 
-    - tegevus: "Koolitused: avalik esinemine, hääle- ja näitlejatehnika"
+    - tegevus: "<a href=\"#Koolitaja\" style=\"font-weight: 500\">Koolitused: avalik esinemine, hääle- ja näitlejatehnika</a>"
 
     - tegevus: Dublaaž
 
@@ -204,6 +204,11 @@ experiences:
       company: Eesti Jalgpalli Liit
       image: teadustaja.jpeg
       image_offsety: 40%
+
+    - role: Koolitaja
+      # company: Eesti Jalgpalli Liit
+      image: workshop.jpeg
+      image_offsety: 10%
 
       # details: |
       #   Describe your role here lorem ipsum dolor sit amet, consectetuer
