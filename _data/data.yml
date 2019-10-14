@@ -217,6 +217,12 @@ experiences:
       image: workshop.jpeg
       image_offsety: 10%
 
+    - role: Reklaam
+      time: 2019
+      company: Lux Express
+      image: reklaam.jpeg
+      image_offsety: 35%
+
       # details: |
       #   Describe your role here lorem ipsum dolor sit amet, consectetuer
       #   adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
