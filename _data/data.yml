@@ -111,6 +111,13 @@ experiences:
       image_offsety: 70%
       link: https://kultuur.err.ee/584226/valner-valme-new-kids-on-the-blok-nodvenadcat
 
+    - role: Varjud / Metsavend Endel
+      time: 2019
+      company: Piibe Teater / lavastaja Tiit Alte
+      image: varjud.jpg
+      image_offsety: 35%
+      # link: https://www.uusteater.ee/tekstid?tag=unustaunista
+
     - role: Kratt / Marko
       time: 2014 - 2015
       company: Tallinna Linnateater/ lavastaja I. Jõela 
