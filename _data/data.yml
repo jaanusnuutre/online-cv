@@ -104,6 +104,13 @@ experiences:
       image_offsety: 50%
       link: https://www.uusteater.ee/tekstid?tag=12%20vihast
 
+    - role: AOC 3 / Detektiiv
+      time: 2019
+      company: View in YouTube!
+      image: jaanus_nuutre_detektiiv.png
+      image_offsety: 10%
+      link: https://youtu.be/_z4t29V7Zws
+
     - role: NOДВЕНАДЦАТЬ / Soldat
       time: 2014 - 2015
       company: NO99 / lavastaja S. Pepelyayev (Venemaa)
@@ -222,6 +229,14 @@ experiences:
       company: Lux Express
       image: jaanus_nuutre_reklaam.jpeg
       image_offsety: 35%
+
+    - role: Reklaam
+      time: 2019
+      company: BigBank Leedu
+      image: jaanus_nuutre_bigbank.jpg
+      image_offsety: 45%
+
+
 
       # details: |
       #   Describe your role here lorem ipsum dolor sit amet, consectetuer
