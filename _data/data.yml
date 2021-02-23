@@ -118,11 +118,19 @@ experiences:
       image_offsety: 10%
       link: https://youtu.be/_z4t29V7Zws
 
+
     - role: NOДВЕНАДЦАТЬ / Soldat
       time: 2014 - 2015
       company: NO99 / lavastaja S. Pepelyayev (Venemaa)
       image: jaanus_nuutre_no.jpg
       image_offsety: 70%
+      link: https://kultuur.err.ee/584226/valner-valme-new-kids-on-the-blok-nodvenadcat
+
+    - role: Ulmlejad / Jaanus
+      time: 2014 - 2015
+      company: Vanemuise / lavastaja Reimo Sagor
+      image: jaanus_nuutre_ulmlejad.jpg
+      image_offsety: 50%
       link: https://kultuur.err.ee/584226/valner-valme-new-kids-on-the-blok-nodvenadcat
 
     - role: Varjud / Metsavend Endel
