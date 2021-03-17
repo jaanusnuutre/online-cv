@@ -131,7 +131,7 @@ experiences:
       company: Vanemuise / lavastaja Reimo Sagor
       image: jaanus_nuutre_ulmlejad.jpg
       image_offsety: 50%
-      link: https://kultuur.err.ee/584226/valner-valme-new-kids-on-the-blok-nodvenadcat
+      link: https://kultuur.err.ee/1608095095/arvustus-ohulosse-pustitavad-ulmlejad
 
     - role: Varjud / Metsavend Endel
       time: 2019
@@ -160,6 +160,13 @@ experiences:
       image: jaanus_nuutre_tonk.JPEG
       image_offsety: 0px
       link: http://eksperiment.kinoteater.ee/86-eesti-mangud-tonk/
+
+    - role: Lavastaja "Tson Lemberi uus elu"
+      time: 2014 - 2015
+      company: Nuutrum / Autor August Mälk
+      image: jaanus_nuutre_tson_lemberi_uus_elu.jpeg
+      image_offsety: 33%
+      link: https://www.piletilevi.ee/est/piletid/teater/draama/tson-lemberi-uus-elu-73614/
 
     - role: Lavastaja "Jutt jumala õige"
       time: 2014 - 2015
