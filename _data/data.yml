@@ -175,6 +175,15 @@ experiences:
       image_offsety: 40%
       link: https://www.facebook.com/nuutrum/photos/a.104060294543461/107356460880511/?type=3&theater
 
+
+    - role: Lavastaja "TÕDE"
+      time: 2014 - 2015
+      company: LendTeater / Autor F. Zeller
+      image: jaanus_nuutre_tode.JPG
+      image_offsety: 40%
+      # link: https://www.facebook.com/nuutrum/photos/a.104060294543461/107356460880511/?type=3&theater
+
+
     - role: Lavastaja "Kui Anija mehed Tallinnas käisid"
       time: 2014 - 2015
       company: Autor E. Vilde / A. Palmiste
