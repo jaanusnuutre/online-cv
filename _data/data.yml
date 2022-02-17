@@ -111,6 +111,7 @@ experiences:
       image_offsety: 10%
       link: https://www.youtube.com/watch?v=5i_Tvg8odC0&feature=youtu.be&fbclid=IwAR31hHaoqpJfa9KapA7WcnD90UMOUR78M6aOS9Om5052tMdayAvmq-FQePg
 
+  
     - role: AOC 3 / Detektiiv
       time: 2019
       company: View on YouTube!
@@ -126,12 +127,24 @@ experiences:
       image_offsety: 70%
       link: https://kultuur.err.ee/584226/valner-valme-new-kids-on-the-blok-nodvenadcat
 
+    - role: ”Kättemaksukontor” / Taavi
+      time: 2019
+      company: TV3 / rež Ain Prosa
+      image: jaanus_nuutre_kättemaksukontor.jpeg
+      image_offsety: 30%
+
     - role: Ulmlejad / Jaanus
       time: 2014 - 2015
       company: Vanemuise / lavastaja Reimo Sagor
       image: jaanus_nuutre_ulmlejad.jpg
       image_offsety: 50%
       link: https://kultuur.err.ee/1608095095/arvustus-ohulosse-pustitavad-ulmlejad
+
+    - role: ”*******” / Jaanus
+      time: 2019
+      company: Von Krahl / lavastaja Mart Koldits
+      image: jaanus_nuutre_*******.jpg
+      image_offsety: 40%
 
     - role: Varjud / Metsavend Endel
       time: 2019
